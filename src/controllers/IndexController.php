@@ -49,7 +49,7 @@ class IndexController extends Controller {
       $welcome_msg =
         'Welcome to the '.
         $custom_org->getValue().
-        ' Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.';
+        ' Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your quest.';
     }
     return
       <div class="fb-row-container full-height fb-scroll">
