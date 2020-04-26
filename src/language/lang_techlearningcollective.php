@@ -603,7 +603,7 @@ $translations = array(
   'category' =>
     'category',
   'capture_' =>
-    'capture_',
+    'liberate_',
   'Insert your answer' =>
     'Insert your answer',
   'Request Hint' =>
