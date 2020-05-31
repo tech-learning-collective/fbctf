@@ -606,14 +606,18 @@ $translations = array(
     'liberate_',
   'Insert your answer' =>
     'Insert your answer',
+  'Level already captured!' =>
+    'Level already liberated!',
   'Request Hint' =>
     'Request Hint',
   'Submit' =>
     'Submit',
+  'Captured!' =>
+    'Liberated!',
   'hint_' =>
     'hint_',
   'first_capture' =>
-    'first_capture',
+    'first_liberation',
   'completed_by' =>
     'completed_by',
   'scoreboard_' =>
